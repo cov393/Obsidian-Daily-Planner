@@ -93,9 +93,9 @@ Screenshots of example outputs:
 	- Enable "Daily Planner" in the plugin list.
 
 5. Install Required Plugin:
-
-	- Install the "Markdown Table Checkboxes" plugin from the Obsidian Community Plugins to enable interactive checkboxes in the health tracker tables.
-	- Navigate to Settings > Community Plugins, search for "Markdown Table Checkboxes", install, and enable it.
+	❗❗❗
+	- Install the **"Markdown Table Checkboxes"** plugin from the Obsidian Community Plugins to enable interactive checkboxes in the health tracker tables.
+	- Navigate to Settings > Community Plugins, search for **"Markdown Table Checkboxes"**, install, and enable it.
 
 5. Build (if developing):
 
