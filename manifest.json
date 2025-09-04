@@ -3,11 +3,12 @@
 	"name": "Daily Planner",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Enhance your productivity in Obsidian with the Daily Planner Plugin! This powerful tool helps you manage daily tasks, track health habits (e.g., workouts), and generate visual weekly summaries with stacked bar charts. Features include automatic file creation, task migration, dynamic habit tracking, and customizable summaries. Perfect for personal organization and habit-building. Compatible with both desktop and mobile.",
+	"description": "Tracks tasks and workouts in weekly Markdown files, summarizing totals, completion %, and daily averages.",
 	"author": "Diana Percatkina",
 	"authorUrl": "https://github.com/cov393",
 	"fundingUrl": "https://github.com/cov393/Obsidian-Daily-Planner.git",
 	"isDesktopOnly": false
 }
+
 
 
